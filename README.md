@@ -17,13 +17,13 @@
 <br />
 ************************************************************************************************
 
-<b>Features</b>
+<b>Full Features</b>
 
 * <sub>Customized AMI with pre-configured tools - no more installations and configurations for tools</sub>
 * <sub>Analyzing control-accessed dbGaP data directly without downloading - saving disc spaces and downloadin time</sub>
-* <sub>Accessing public NCBI data like local file system - no pre-loading reference data</sub>
-* <sub>Accessing public s3 NGS data like local file system - saving disc spaces and data transferring time</sub>
 * <sub>Flexibility  - users can add their own (proprietary or licensed) tools as they like </sub>
+* <sub>*Accessing public NCBI data like local file system - no pre-loading reference data</sub>
+* <sub>*Accessing public s3 NGS data like local file system - saving disc spaces and data transferring time</sub>
 
 
 <br />
