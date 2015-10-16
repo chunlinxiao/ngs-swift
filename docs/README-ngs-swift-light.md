@@ -1,5 +1,4 @@
-<b>NGS-SWIFT</b>
-
+# NGS-SWIFT
 
 <b>Introduction</b>
 
