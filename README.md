@@ -1,5 +1,4 @@
 # NGS-SWIFT
-
 <br />
 <b>Introduction</b>
 
