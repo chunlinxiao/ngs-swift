@@ -1,9 +1,5 @@
-# about_ngs-swift
-An introduction about ngs-swift
+# NGS-SWIFT
 
-
-<br />
-<b>NGS-SWIFT</b>
 
 ************************************************************************************************
 
