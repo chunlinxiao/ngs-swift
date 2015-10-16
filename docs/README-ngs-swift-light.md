@@ -1,11 +1,11 @@
-NGS-SWIFT
+<b>NGS-SWIFT</b>
 
 
 <b>Introduction</b>
 
 <sub>NGS-SWIFT is a customized computational environments and packages essential for DNA and RNA sequence analysis with public and control-accessed NGS data in cloud. Instantiation of an cloud instance or instance clusters with ideal computing environment for NGS data analysis is facilitated.</sub>
 
-
+<br />
 ****************************************************************************************
 
 <b>Features and Tools</b>
@@ -27,14 +27,14 @@ NGS-SWIFT
 <sub>. sratoolkit developed by NCBI. </sub><br />
 
 
+<br />
 ****************************************************************************************
 
 <b>Latest release and suitable platform</b>
 
 <sub><b>ngs-swift-20150621-ubuntu14.04-x86_64-light, AWS</b></sub>
 
-
-
+<br  />
 ****************************************************************************************
 
 <b>Disclaimer</b>
