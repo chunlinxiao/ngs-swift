@@ -29,7 +29,7 @@
 
 <b>Latest release and suitable platform</b>
 
-<sub><b>ngs-swift-20150621-ubuntu14.04-x86_64-light, in Amazon aws cloud</b></sub>
+<sub><b>ngs-swift-20150621-ubuntu14.04-x86_64-light, in Amazon aws cloud  (features with * excluded) </b></sub>
 
 <br />
 ************************************************************************************************
