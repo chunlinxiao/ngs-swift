@@ -5,12 +5,12 @@
 <sub>NGS-SWIFT is a customized computational environments and packages essential for DNA and RNA sequence analysis with public and control-accessed NGS data in cloud. Instantiation of an cloud instance or instance clusters with ideal computing environment is much facilitated.</sub>
 
 <sub><b>Included tools are: </b><br />
-  popular aligners (bwa, bowtie2, soap2 etc), <br />
-  variant callers (samtools/bcftools, freebayes, snptools, soapsnp, cortex, varscan etc), <br />
+  Popular aligners (bwa, bowtie2, soap2 etc), <br />
+  Variant callers (samtools/bcftools, freebayes, snptools, soapsnp, cortex, varscan etc), <br />
   RNAseq analysis tools (tophat, cufflinks, STAR, hisat etc), <br />
   Common utility tools (vcftools, bedtools, tabix, R etc), and <br />
-  NCBI developed SRA Toolkit and NGS Software Development Kit.</sub><br />
-  *assembly tools (falcon, soapdenovo, sga, wga/CA etc), <br />
+  NCBI developed SRA Toolkit and NGS Software Development Kit,<br />
+  *Assembly tools (falcon, soapdenovo, sga, wga/CA etc) </sub><br />
 
 
 <br />
