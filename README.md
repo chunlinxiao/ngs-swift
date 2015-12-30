@@ -8,11 +8,10 @@
   popular aligners (bwa, bowtie2, soap2 etc), <br />
   variant callers (samtools/bcftools, freebayes, snptools, soapsnp, cortex, varscan etc), <br />
   RNAseq analysis tools (tophat, cufflinks, STAR, hisat etc), <br />
-  *assembly tools (falcon, soapdenovo, sga, wga/CA etc), <br />
-  common utility tools (vcftools, bedtools, tabix, R etc), and <br />
+  Common utility tools (vcftools, bedtools, tabix, R etc), and <br />
   NCBI developed SRA Toolkit and NGS Software Development Kit.</sub><br />
+  *assembly tools (falcon, soapdenovo, sga, wga/CA etc), <br />
 
-<sub>Commonly used resources such as human reference genomes are also included.</sub>
 
 <br />
 ************************************************************************************************
@@ -22,7 +21,6 @@
 * <sub>Customized AMI with pre-configured tools - no more installations and configurations for tools</sub>
 * <sub>Analyzing control-accessed dbGaP data directly without downloading - saving disc spaces and downloadin time</sub>
 * <sub>Flexibility  - users can add their own (proprietary or licensed) tools as they like </sub>
-* <sub>*Accessing public NCBI data like local file system - no pre-loading reference data</sub>
 * <sub>*Accessing public s3 NGS data like local file system - saving disc spaces and data transferring time</sub>
 
 
