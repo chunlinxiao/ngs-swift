@@ -2,7 +2,7 @@
 
 <b>Introduction</b>
 
-<sub>NGS-SWIFT is a customized computational environments and packages essential for DNA and RNA sequence analysis with public and control-accessed NGS data in cloud. Instantiation of an cloud instance or instance clusters with ideal computing environment is much facilitated.</sub>
+<sub>NGS-SWIFT is a customized computational environments and software packages essential for DNA and RNA sequence analysis with public and control-accessed NGS data in cloud. Instantiation of an cloud instance or instance clusters with ideal computing environment is much facilitated.</sub>
 
 <sub><b>Included tools are: </b><br />
   Popular aligners (bwa, bowtie2, soap2 etc), <br />
