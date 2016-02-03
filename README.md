@@ -37,7 +37,6 @@
 
 <sub>For testing with control-accessed data, user can follow the instruction described in this document: [AWS_control_accessed_1KG_data_Instructions_v1.3.docx](https://github.com/chunlinxiao/ngs-swift/blob/master/docs/AWS_control_accessed_1KG_data_Instructions_v1.3.docx).
 
-
 <br />
 ************************************************************************************************
 
